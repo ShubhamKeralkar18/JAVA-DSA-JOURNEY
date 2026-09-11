@@ -8,4 +8,4 @@ Day 2: if-else and switch statements ✅
 
 Day 3: for loop, while loop ✅
 
-Day 3: nested loop ✅
+Day 4: nested loop ✅
