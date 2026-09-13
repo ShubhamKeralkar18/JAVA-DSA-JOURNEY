@@ -11,3 +11,5 @@ Day 3: for loop, while loop ✅
 Day 4: nested loop ✅
 
 Day 5: basic patterns ✅
+
+Day 6: advanced patterns ✅
