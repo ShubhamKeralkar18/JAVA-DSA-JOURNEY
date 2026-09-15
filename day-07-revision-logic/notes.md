@@ -109,5 +109,3 @@ Nested loop = Loop inside another loop
 Day 07 revises the Java fundamentals learned during Week 1.
 
 The main goal is to connect conditions, loops and nested loops together.
-
-Deep practice and question-solving will be continued later.
