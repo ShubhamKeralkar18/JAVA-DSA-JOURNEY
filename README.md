@@ -17,3 +17,5 @@ Day 6: advanced patterns ✅
 Day 7: revision + logic practice ✅
 
 Day 8: METHODS / FUNCTIONS ✅
+
+Day 9: METHOD PRACTICE ✅
